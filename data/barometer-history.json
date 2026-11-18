@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "municipality": "Ålesund",
+  "snapshots": [
+    {
+      "date": "2026-11-18",
+      "label": "Første barometer",
+      "municipalityCode": "1508",
+      "method": "Faktisk mandatfordeling 2023, overført til et hypotetisk 2027-scenario",
+      "electionSource": "https://valgresultat.no/valg/2023/ko/m%C3%B8re%20og%20romsdal/%C3%A5lesund",
+      "polls": [],
+      "parties": [
+        {
+          "id": "frp",
+          "votes": 7213,
+          "seats": 13
+        },
+        {
+          "id": "h",
+          "votes": 6185,
+          "seats": 11
+        },
+        {
+          "id": "ap",
+          "votes": 4189,
+          "seats": 7
+        },
+        {
+          "id": "al",
+          "votes": 3809,
+          "seats": 7
+        },
+        {
+          "id": "krf",
+          "votes": 1398,
+          "seats": 2
+        },
+        {
+          "id": "sv",
+          "votes": 1097,
+          "seats": 2
+        },
+        {
+          "id": "inp",
+          "votes": 828,
+          "seats": 1
+        },
+        {
+          "id": "mdg",
+          "votes": 757,
+          "seats": 1
+        },
+        {
+          "id": "sp",
+          "votes": 753,
+          "seats": 1
+        },
+        {
+          "id": "v",
+          "votes": 570,
+          "seats": 1
+        },
+        {
+          "id": "r",
+          "votes": 511,
+          "seats": 1
+        },
+        {
+          "id": "nd",
+          "votes": 346,
+          "seats": 0
+        },
+        {
+          "id": "kon",
+          "votes": 254,
+          "seats": 0
+        },
+        {
+          "id": "lib",
+          "votes": 45,
+          "seats": 0
+        }
+      ],
+      "nominations": {
+        "frp": {
+          "status": "Vedtatt av partiet",
+          "date": "19.10.2026",
+          "note": "De ti øverste er offentliggjort. Resten av listen og stemmetillegg er ikke kontrollert.",
+          "source": "https://bypatrioten.com/nyheter/lykkebo-strand-er-forstekandidat-for-alesund-frp/",
+          "names": [
+            {
+              "name": "Håkon Lykkebø Strand",
+              "rank": 1
+            },
+            {
+              "name": "Tor-André Gram Franck",
+              "rank": 2
+            },
+            {
+              "name": "Wenche Gausnes Aasen",
+              "rank": 3
+            },
+            {
+              "name": "Rolf Magne Asbjørnsen",
+              "rank": 4
+            },
+            {
+              "name": "Kristine Solvang Nesvik",
+              "rank": 5
+            },
+            {
+              "name": "Frida Sylte",
+              "rank": 6
+            },
+            {
+              "name": "Hilde Karin Lehmann Valde",
+              "rank": 7
+            },
+            {
+              "name": "Svein Ronny Gangstad Sandøy",
+              "rank": 8
+            },
+            {
+              "name": "Andrew Taylor",
+              "rank": 9
+            },
+            {
+              "name": "Asgeir Berg",
+              "rank": 10
+            }
+          ]
+        },
+        "al": {
+          "status": "To plasser vedtatt",
+          "date": "09.11.2026",
+          "note": "Resten av listen vedtas i løpet av vinteren.",
+          "source": "https://bypatrioten.com/nyheter/her-er-toppene-for-alesundlista/",
+          "names": [
+            {
+              "rank": 1,
+              "name": "Hans Kjetil Knutsen",
+              "boost": true
+            },
+            {
+              "rank": 2,
+              "name": "Kathrine Norstrand",
+              "boost": true,
+              "background": "Lærer ved Åse skole; medlem av hovedutvalget for kultur og oppvekst."
+            }
+          ]
+        },
+        "ap": {
+          "status": "Ordførerkandidat valgt",
+          "date": "16.09.2026",
+          "note": "Sindre Nakken er valgt som ordførerkandidat; nummerert liste ikke kontrollert.",
+          "source": "https://bypatrioten.com/nyheter/sindre-nakken-er-arbeiderpartiets-ordforerkandidat/",
+          "names": [
+            {
+              "name": "Sindre Nakken",
+              "rank": 0,
+              "background": "Veileder hos Brisk; folkevalgt siden 2007."
+            }
+          ]
+        },
+        "h": {
+          "status": "Komitéinnstilling",
+          "date": "16.11.2026",
+          "note": "Innstillingen ligger som bilde på partiets nettsted. Jessica Gärtner var foreslått som ordførerkandidat i juni; nye listeplasser ikke avlest.",
+          "source": "https://hoyre.no/alesund/aktuelt/nominasjons-komiteens-innstilling-kommuvalg-2027/",
+          "names": []
+        }
+      }
+    }
+  ]
+}
