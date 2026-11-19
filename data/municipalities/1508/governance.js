@@ -542,9 +542,65 @@ window.VL_GOVERNANCE = {
           "name": "Nils Jakob Grytten",
           "party": "h",
           "role": "Nestleder"
+        },
+        {
+          "name": "Sindre Nakken",
+          "party": "ap",
+          "role": "Medlem"
+        },
+        {
+          "name": "Tove Nygård",
+          "party": "ap",
+          "role": "Medlem"
+        },
+        {
+          "name": "Arild Holmeide",
+          "party": "frp",
+          "role": "Medlem"
+        },
+        {
+          "name": "Daniella Baarholm",
+          "party": "frp",
+          "role": "Medlem"
+        },
+        {
+          "name": "Rolf-Magne Asbjørnsen",
+          "party": "frp",
+          "role": "Medlem"
+        },
+        {
+          "name": "Frøydis Husøy",
+          "party": "h",
+          "role": "Medlem"
+        },
+        {
+          "name": "Jarle Hauge Steffenssen",
+          "party": "mdg",
+          "role": "Medlem"
+        },
+        {
+          "name": "Karoline Stette",
+          "party": "sp",
+          "role": "Medlem"
+        },
+        {
+          "name": "Jannicke Strømmen",
+          "party": "uav",
+          "role": "Medlem"
+        },
+        {
+          "name": "Rolf Steinar Stavset",
+          "party": "v",
+          "role": "Medlem"
+        },
+        {
+          "name": "Thor Hansen",
+          "party": "al",
+          "role": "Medlem"
         }
       ],
-      "note": "Bare leder og nestleder kontrollert. Øvrige 11 navn gjenstår."
+      "note": "13 navn i registeruttrekket 19.11.2026. Registrert medlemskap, ikke oppmøte.",
+      "status": "13 registrerte navn"
     },
     {
       "id": "control",
