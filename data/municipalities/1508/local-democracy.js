@@ -432,9 +432,38 @@ window.VL_LOCAL_DEMOCRACY = {
         "type": "KF",
         "share": 100,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
-        "board": [],
+        "board": [
+          {
+            "name": "Asgeir Berg",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Lena Landsverk Sande",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Yvonne Wold",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Ragnhild Helseth",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Andreas Fjørtoft",
+            "role": "Styremedlem (ansattrepresentant)"
+          }
+        ],
         "unverifiedRepresentatives": [],
-        "description": "Kommunalt foretak, del av kommunen."
+        "description": "Kommunalt foretak, del av kommunen.",
+        "boardSource": "https://110-sentralen.no/110-sentralen-2/",
+        "boardNote": "Foretakets styreoversikt for perioden 2024–2027. Reglementet oppgir ikke sats for fast medlem.",
+        "rates": {
+          "chair": 68525,
+          "member": null,
+          "source": "https://alesund.kommune.no/_f/p1/i249b10b5-9427-4cb7-a4d1-25e1b181c6bf/reglement-for-folkevalde-sine-arbeidsvilkar.pdf",
+          "year": 2026
+        }
       },
       {
         "name": "Møre og Romsdal revisjon SA",
@@ -574,18 +603,76 @@ window.VL_LOCAL_DEMOCRACY = {
         "type": "KF",
         "share": 100,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
-        "board": [],
+        "board": [
+          {
+            "name": "Monica Molvær",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Pål Aarsæther",
+            "role": "Nestleder"
+          },
+          {
+            "name": "Arne Almås",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Åse Karin Gjære",
+            "role": "Styremedlem (arbeidsgiverrepresentant)"
+          },
+          {
+            "name": "Øystein Bjørkavåg",
+            "role": "Styremedlem (ansattrepresentant)"
+          }
+        ],
         "unverifiedRepresentatives": [],
-        "description": "Kommunalt foretak, del av kommunen."
+        "description": "Kommunalt foretak, del av kommunen.",
+        "boardSource": "https://aabv.no/om-brannvesenet/var-rolle-og-organisering/",
+        "boardNote": "Foretakets egen styreoversikt, sist endret 11.06.2026.",
+        "rates": {
+          "chair": 68525,
+          "member": 15814,
+          "source": "https://alesund.kommune.no/_f/p1/i249b10b5-9427-4cb7-a4d1-25e1b181c6bf/reglement-for-folkevalde-sine-arbeidsvilkar.pdf",
+          "year": 2026
+        }
       },
       {
         "name": "Ålesund kommunale eigedom KF",
         "type": "KF",
         "share": 100,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
-        "board": [],
+        "board": [
+          {
+            "name": "Øystein Tvedt",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Hans Kjetil Knutsen",
+            "role": "Nestleder"
+          },
+          {
+            "name": "Rolf Magne Asbjørnsen",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Henriette Bryn",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Helene Kvalsvik Breivik",
+            "role": "Styremedlem (oppnevnt av kommunedirektøren)"
+          }
+        ],
         "unverifiedRepresentatives": [],
-        "description": "Kommunalt foretak, del av kommunen."
+        "description": "Kommunalt foretak, del av kommunen.",
+        "boardSource": "https://alesund.kommune.no/_f/p1/i1fd14c5b-5e64-4a53-b43f-768010c83909/alesund-kommunale-eigedom-kf-val-av-styre-for-valperioden-2026-2027-to-ar-melding-om-vedtak.pdf",
+        "boardNote": "Vedtak 11.12.2025, sak 142/25, perioden 2026–2027. Ansattrepresentant er oppført uten navn. Eventuelle senere endringer ikke kontrollert.",
+        "rates": {
+          "chair": 137051,
+          "member": 31627,
+          "source": "https://alesund.kommune.no/_f/p1/i249b10b5-9427-4cb7-a4d1-25e1b181c6bf/reglement-for-folkevalde-sine-arbeidsvilkar.pdf",
+          "year": 2026
+        }
       },
       {
         "name": "Ålesund kommunes administrasjonsbygg AS",
@@ -620,5 +707,74 @@ window.VL_LOCAL_DEMOCRACY = {
       }
     ],
     "notes": "Uttrekk av 32 oppføringer fra kapittel 4 i eierskapsmeldingen. Ikke en uavhengig verifikasjon av dagens eierskap. Navn med uavklart rolle holdes utenfor personprofilene."
+  },
+  "compensation": {
+    "year": 2026,
+    "base": 124028,
+    "source": "https://alesund.kommune.no/_f/p1/i249b10b5-9427-4cb7-a4d1-25e1b181c6bf/reglement-for-folkevalde-sine-arbeidsvilkar.pdf",
+    "law": "https://lovdata.no/dokument/LF/forskrift/2026-03-26-563",
+    "note": "Kommunestyrets reglement, sak 34/26, 26.03.2026. Bruker G per 01.05.2024. Dette er normalsatser, ikke faktiske utbetalinger. Frikjøp, oppmøte, avkorting og unntak påvirker utbetalingene. Ordfører og varaordfører får ikke ordinære tillegg for organer de er valgt til.",
+    "rows": [
+      [
+        "Ordfører",
+        "Årlig",
+        1364308
+      ],
+      [
+        "Varaordfører",
+        "Årlig",
+        1054238
+      ],
+      [
+        "Formannskap – fast medlem",
+        "Årlig",
+        158136
+      ],
+      [
+        "Hovedutvalg – leder",
+        "Årlig",
+        105424
+      ],
+      [
+        "Planutvalg – leder",
+        "Årlig",
+        158136
+      ],
+      [
+        "Kontrollutvalg – leder",
+        "Årlig",
+        105424
+      ],
+      [
+        "Kommunedelsutvalg – leder",
+        "Årlig",
+        7907
+      ],
+      [
+        "Kommunestyret – møtende medlem",
+        "Per møte",
+        4217
+      ],
+      [
+        "Formannskap, planutvalg og hovedutvalg – møtende medlem",
+        "Per møte",
+        2108
+      ],
+      [
+        "Kontrollutvalg – møtende medlem",
+        "Per møte",
+        4217
+      ],
+      [
+        "Kommunedelsutvalg – leder",
+        "Per møte",
+        1581
+      ],
+      [
+        "Kommunedelsutvalg – medlem",
+        "Per møte",
+        1054
+      ]
+    ]
   }
 };
