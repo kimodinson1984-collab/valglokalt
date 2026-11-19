@@ -130,13 +130,51 @@ window.VL_LOCAL_DEMOCRACY = {
       "members": [
         {
           "name": "Laurits Funch",
+          "party": "Råd/utval",
           "role": "Leder"
         },
         {
           "name": "Inger Johanne Langeland",
+          "party": "Råd/utval",
           "role": "Nestleder"
+        },
+        {
+          "name": "Fridgeir Walderhaug",
+          "party": "Arbeiderpartiet",
+          "role": "Medlem"
+        },
+        {
+          "name": "Daniella Baarholm",
+          "party": "Fremskrittspartiet",
+          "role": "Medlem"
+        },
+        {
+          "name": "Petter Arne Alvik",
+          "party": "Høyre",
+          "role": "Medlem"
+        },
+        {
+          "name": "Kristin Holm Blomvik",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Lill Rustad",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Jack Roger Blindheim",
+          "party": "Venstre",
+          "role": "Medlem"
+        },
+        {
+          "name": "Audun Røyset",
+          "party": "Ålesundlista",
+          "role": "Medlem"
         }
-      ]
+      ],
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-15!etkg3t"
     },
     {
       "id": "borgund",
@@ -208,13 +246,51 @@ window.VL_LOCAL_DEMOCRACY = {
       "members": [
         {
           "name": "Jan Ove Longvastøl",
+          "party": "Arbeiderpartiet",
           "role": "Leder"
         },
         {
           "name": "Hilde Karin Lehmann Valde",
+          "party": "Fremskrittspartiet",
           "role": "Nestleder"
+        },
+        {
+          "name": "Arnstein Sæthre",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Ewa Hildre",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Lisbeth Farstad",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Odd Arne Maridal",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Per Egil Håhjem",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Ann-Mari Skarbø",
+          "party": "SV",
+          "role": "Medlem"
+        },
+        {
+          "name": "Unni Kristin Wiik",
+          "party": "Ålesundlista",
+          "role": "Medlem"
         }
-      ]
+      ],
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-14!AwkSO9"
     },
     {
       "id": "orskog",
@@ -228,13 +304,51 @@ window.VL_LOCAL_DEMOCRACY = {
       "members": [
         {
           "name": "Runa Klock",
+          "party": "Råd/utval",
           "role": "Leder"
         },
         {
           "name": "Arne Abelseth",
+          "party": "Råd/utval",
           "role": "Nestleder"
+        },
+        {
+          "name": "Arnfred Balseth",
+          "party": "Fremskrittspartiet",
+          "role": "Medlem"
+        },
+        {
+          "name": "Elin Dyrkorn",
+          "party": "Høyre",
+          "role": "Medlem"
+        },
+        {
+          "name": "Bent Inge Urke",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Bjørn Steinar Skarbø",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Helene Børretzen Fjørtoft",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Janet Roelofs",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Siv Kristin Krokfoss",
+          "party": "Råd/utval",
+          "role": "Medlem"
         }
-      ]
+      ],
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-17!zaLXYI"
     },
     {
       "id": "ellingsoy",
@@ -306,13 +420,57 @@ window.VL_LOCAL_DEMOCRACY = {
       "members": [
         {
           "name": "Ann Elin Harnes",
+          "party": "Råd/utval",
           "role": "Leder"
         },
         {
           "name": "Eva Kristin Fjørtoft",
+          "party": "Venstre",
           "role": "Nestleder"
+        },
+        {
+          "name": "Anne Iversen",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Christen Røsok",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Einar Ståle Sandøy",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Frida Hivand Blokhus",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Frode Brunvoll",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Helge Ervik",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Lars Helge Blokhus Hanssen",
+          "party": "Råd/utval",
+          "role": "Medlem"
+        },
+        {
+          "name": "Oddhild Jensine Sandøy",
+          "party": "Råd/utval",
+          "role": "Medlem"
         }
-      ]
+      ],
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-13!nnLw4S",
+      "note": "Registeruttrekket har 10 navn mot 9 plasser etter reglementet. Rolle/status må kontrolleres før en endelig medlemsliste kan fastslås."
     }
   ],
   "regulation": "https://alesund.kommune.no/_f/p1/i8b057465-3976-4031-a85c-87d9402bb525/reglement-for-folkevalgte-organ-2023-2027.pdf",
@@ -323,8 +481,41 @@ window.VL_LOCAL_DEMOCRACY = {
     "committee": {
       "name": "Eigarskapsutvalet",
       "size": 5,
-      "members": [],
-      "source": "https://alesund.kommune.no/_f/p1/i09373760-15d0-4dde-9784-d0080623eb43/politisk-delegeringsreglement-2023-2027.pdf"
+      "members": [
+        {
+          "name": "Håkon Lykkebø Strand",
+          "party": "Fremskrittspartiet",
+          "role": "Leder"
+        },
+        {
+          "name": "Monica Molvær",
+          "party": "Høyre",
+          "role": "Nestleder"
+        },
+        {
+          "name": "Anne Berit Støyva Emblem",
+          "party": "Arbeiderpartiet",
+          "role": "Medlem"
+        },
+        {
+          "name": "Jessica Gärtner",
+          "party": "Høyre",
+          "role": "Medlem"
+        },
+        {
+          "name": "Tore Johan Øvstebø",
+          "party": "Kristelig Folkeparti",
+          "role": "Medlem"
+        },
+        {
+          "name": "Hans Kjetil Knutsen",
+          "party": "Ålesundlista",
+          "role": "Medlem"
+        }
+      ],
+      "source": "https://alesund.kommune.no/_f/p1/i09373760-15d0-4dde-9784-d0080623eb43/politisk-delegeringsreglement-2023-2027.pdf",
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-35!IVHHvy",
+      "note": "Registeruttrekket har seks navn mot fem plasser i tidligere kartlegging. Sammensetning og eventuelle endringer/fritak må avklares; ingen er fjernet på grunnlag av gjetning."
     },
     "entities": [
       {
