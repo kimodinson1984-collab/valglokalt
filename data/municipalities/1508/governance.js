@@ -72,11 +72,6 @@ window.VL_GOVERNANCE = {
           "role": "Medlem"
         },
         {
-          "name": "Jessica Gärtner",
-          "party": "h",
-          "role": "Varaordfører"
-        },
-        {
           "name": "Benedicte Elina Bjørge Hurlen",
           "party": "h",
           "role": "Medlem"
@@ -252,7 +247,9 @@ window.VL_GOVERNANCE = {
           "role": "Medlem"
         }
       ],
-      "note": "Registeret viser 46 navn med medlemsrolle; ordføreren er lagt til fra kommunens ordførerside. Grupperegisteret viser Jannicke Strømmen som uavhengig, men kommunens gruppetall oppdatert 05.11.2026 viser fortsatt FrP 13 og uavhengig 1. Registerbasert fordeling må derfor ikke behandles som endelig avklart. Monica Molvær er registrert medlem; eventuell permisjon fra medlemsvervet er ikke kontrollert."
+      "note": "Nettregisteret ga 46 navn merket Medlem; ordføreren er lagt til fra kommunens ordførerside. Varaordfører Jessica Gärtner er dokumentert i vervet og i formannskapet, men var ikke med i uttrekket av ordinære kommunestyremedlemmer; Høyre har 11 øvrige navn i uttrekket. Denne uoverensstemmelsen må avklares før kartet kan brukes som endelig medlemsliste. Registeret viser Jannicke Strømmen som uavhengig, mens kommunens gruppetall oppdatert 05.11.2026 oppgir FrP 13 og uavhengig 1. Monica Molvær står registrert som medlem; eventuell permisjon fra medlemsvervet er ikke kontrollert.",
+      "noteSource": "https://alesund.kommune.no/aktuelt/siste-nytt/ny-varaordforer-i-alesund.67391.aspx",
+      "status": "Avvik i kildene – foreløpig registeruttrekk"
     },
     {
       "id": "executive",
@@ -328,7 +325,7 @@ window.VL_GOVERNANCE = {
           "role": "Medlem"
         }
       ],
-      "note": "Medlemsliste kontrollert 18.11.2026; eventuelle fritak eller oppmøte må kontrolleres separat."
+      "note": "Medlemsliste kontrollert 18.11.2026; eventuelle fritak eller oppmøte må kontrolleres separat. Varaordføreren er bekreftet fra 1.10.2025."
     },
     {
       "id": "culture",
@@ -393,7 +390,8 @@ window.VL_GOVERNANCE = {
           "party": "al",
           "role": "Medlem"
         }
-      ]
+      ],
+      "note": "Leder og nestleder fra kommunens fagutvalgsside, øvrige navn fra det dynamiske registeret."
     },
     {
       "id": "health",
@@ -458,7 +456,8 @@ window.VL_GOVERNANCE = {
           "party": "al",
           "role": "Medlem"
         }
-      ]
+      ],
+      "note": "Leder og nestleder fra kommunens fagutvalgsside, øvrige navn fra det dynamiske registeret."
     },
     {
       "id": "technical",
@@ -523,7 +522,8 @@ window.VL_GOVERNANCE = {
           "party": "al",
           "role": "Medlem"
         }
-      ]
+      ],
+      "note": "Leder og nestleder fra kommunens fagutvalgsside, øvrige navn fra det dynamiske registeret."
     },
     {
       "id": "planning",
@@ -607,5 +607,11 @@ window.VL_GOVERNANCE = {
     "Forhandlingsutvalg",
     "Oppgaveutvalg",
     "Kommunale foretak og interkommunale selskaper"
-  ]
+  ],
+  "otherSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/",
+  "nextTerm": {
+    "seats": 47,
+    "status": "Omtalt vedtak 24.09.2026; original møteprotokoll gjenstår",
+    "source": "https://www.innbyggerstemmen.no/offentlige-saker/cmuajsalf0oawi4owr9kk7kbg"
+  }
 };
