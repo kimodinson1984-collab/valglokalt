@@ -532,7 +532,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 0.75,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "919635657",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/919635657"
       },
       {
         "name": "Attvin AS",
@@ -550,7 +552,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 0.76,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "910568183",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/910568183"
       },
       {
         "name": "Brisk AS",
@@ -558,7 +562,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 100,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "925996432",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/925996432"
       },
       {
         "name": "Den norske matfestivalen AS",
@@ -590,7 +596,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 3.74,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "922307814",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/922307814"
       },
       {
         "name": "Håp i havet eiendom AS",
@@ -610,7 +618,9 @@ window.VL_LOCAL_DEMOCRACY = {
           "Vebjørn Krogsæter",
           "Kirsti Dale",
           "Andrea Hunger"
-        ]
+        ],
+        "orgnr": "982330459",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/982330459"
       },
       {
         "name": "Muritunet AS",
@@ -618,7 +628,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 4.2,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "961721652",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/961721652"
       },
       {
         "name": "Møre og Romsdal 110-sentral KF",
@@ -664,7 +676,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 12.52,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "923746552",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/923746552"
       },
       {
         "name": "Nasjonalt kommunesamarbeid for 110-sentralene IKS",
@@ -801,10 +815,41 @@ window.VL_LOCAL_DEMOCRACY = {
         "type": "AS",
         "share": 52.61,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
-        "board": [],
+        "board": [
+          {
+            "name": "Ingvild Vartdal",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Arne Andreas Riisnes",
+            "role": "Nestleder"
+          },
+          {
+            "name": "Harald Tom Nesvik",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Silje Skaar Sunde",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Nils Arne Bakke",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Per Ove Hjelme",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Magnus Erdal",
+            "role": "Styremedlem"
+          }
+        ],
         "unverifiedRepresentatives": [],
         "orgnr": "976726626",
-        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/976726626"
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/976726626",
+        "boardSource": "https://www.tafjord.no/kort-om-tafjord/styring-og-ledelse/styret-og-konsernledelsen",
+        "boardNote": "Selskapets publiserte styreoversikt, lest 20.11.2026; eventuelle senere endringer ikke kontrollert."
       },
       {
         "name": "Vaksvik vassverk SA",
@@ -820,7 +865,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 20.35,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "981575679",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/981575679"
       },
       {
         "name": "Ålesund brannvesen KF",
@@ -948,7 +995,36 @@ window.VL_LOCAL_DEMOCRACY = {
         "type": "IKS",
         "share": 85,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
-        "board": [],
+        "board": [
+          {
+            "name": "Harald Tom Nesvik",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Silje Brun Teigen",
+            "role": "Nestleder"
+          },
+          {
+            "name": "Ronny Blomvik",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Astrid Strand",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Kai Stenhjem",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Trine Otterlei",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Svein Magnus Kvaløy",
+            "role": "Styremedlem"
+          }
+        ],
         "unverifiedRepresentatives": [
           "Birger Flem",
           "Kenneth Langvatn",
@@ -956,7 +1032,11 @@ window.VL_LOCAL_DEMOCRACY = {
           "Asgeir Berg",
           "Daniella Baarholm",
           "Sindre Nakken"
-        ]
+        ],
+        "orgnr": "933239098",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/933239098",
+        "boardSource": "https://alesund.havn.no/om-alesund-havn/om-oss/havnestyret/",
+        "boardNote": "Selskapets publiserte styreoversikt, lest 20.11.2026; eventuelle senere endringer ikke kontrollert."
       }
     ],
     "notes": "Uttrekk av 32 oppføringer fra kapittel 4 i eierskapsmeldingen. Ikke en uavhengig verifikasjon av dagens eierskap. Navn med uavklart rolle holdes utenfor personprofilene."
