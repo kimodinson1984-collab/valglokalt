@@ -540,7 +540,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 88.89,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "922025096",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/922025096"
       },
       {
         "name": "Biblioteksentralen SA",
@@ -696,7 +698,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 100,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "978664628",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/978664628"
       },
       {
         "name": "Storfjordsambandet AS",
@@ -763,7 +767,34 @@ window.VL_LOCAL_DEMOCRACY = {
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
         "unverifiedRepresentatives": [],
-        "description": "Oppført i eierskapsmeldingen. Kommunestyret vedtok avvikling i 2025; nåværende selskapsstatus må kontrolleres."
+        "description": "Oppført i eierskapsmeldingen. Kommunestyret vedtok avvikling i 2025; nåværende selskapsstatus må kontrolleres.",
+        "orgnr": "823806752",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/823806752",
+        "historicalBoard": [
+          {
+            "name": "Hans Kjetil Knutsen",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Monica Molvær",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Øystein Tvedt",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Rolf Magne Asbjørnsen",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Andrea Hunger",
+            "role": "Styremedlem"
+          }
+        ],
+        "historicalBoardSource": "https://sorsida.no/nyheter/arbeidet-med-s%C3%B8rsida-fortsetter-for-fullt",
+        "boardNote": "Kommunestyret vedtok i mai 2025 avvikling og overføring til kommunalt foretak. Styret offentliggjort 20.06.2025 vises som historisk inntil nåværende status er kontrollert.",
+        "statusSource": "https://alesund.kommune.no/aktuelt/siste-nytt/vedtok-endret-organisering-av-sorsida-utvikling.59869.aspx"
       },
       {
         "name": "Tafjord Kraft AS",
@@ -771,7 +802,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 52.61,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "976726626",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/976726626"
       },
       {
         "name": "Vaksvik vassverk SA",
@@ -878,8 +911,37 @@ window.VL_LOCAL_DEMOCRACY = {
         "type": "AS",
         "share": 100,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
-        "board": [],
-        "unverifiedRepresentatives": []
+        "board": [
+          {
+            "name": "Berit Wennersberg",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Torill Ytreberg",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Lovise Grøvdal Lovund",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Rune Dalsbø",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Ragnhild Wolstad",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Kaj Bang Westre",
+            "role": "Styremedlem"
+          }
+        ],
+        "unverifiedRepresentatives": [],
+        "orgnr": "930475610",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/930475610",
+        "boardSource": "https://www.alesundparkering.no/om-oss/",
+        "boardNote": "Selskapets egen oversikt, sist endret 02.10.2026."
       },
       {
         "name": "Ålesundregionens havnevesen IKS",
