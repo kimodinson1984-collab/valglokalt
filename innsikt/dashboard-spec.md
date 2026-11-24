@@ -1,0 +1,11 @@
+# Privat dashboard – første versjon
+- Vis trafikk i eksisterende Cloudflare Web Analytics; lenke fra privat dashboard.
+- Vis generelle funksjonstellinger, sortert etter totalsum, og ukentlig trend.
+- Filtre: innholdskommune og periode (minimum sju dager).
+- Undertrykk små tall; ikke gi tilgang til rå hendelser.
+- Ingen rangering av politiske interesser per person, ingen sporing på tvers av besøk.
+- Ingen tolkning av kalkulatorbruk som politisk standpunkt.
+- Vis tydelig at hendelsestellinger ikke er unike besøkende.
+- Separat fremtidig frivillig undersøkelsesmodul: kun aggregater etter selvstendig vurdering av anonymitet og samtykke.
+- Admin API skal verifisere Access JWT (signatur, issuer, audience, expiry) og tillatt administrator. Ingen klienthemmeligheter.
+- Samtlige endepunkter stengt inntil tilgang og personvern er testet.
