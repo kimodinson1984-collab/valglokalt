@@ -636,6 +636,105 @@ window.VL_GOVERNANCE = {
         }
       ],
       "note": "Navn fra kommunens side oppdatert 12.02.2026. Partitilhørighet ikke kontrollert for dette organet."
+    },
+    {
+      "id": "elder",
+      "name": "Eldrerådet",
+      "size": 9,
+      "description": "Rådgivende organ for eldres levekår. Kan ta opp egne saker, men ikke enkeltsaker.",
+      "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/eldrerad/",
+      "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/eldrerad/",
+      "status": "Delvis kartlagt · kontrollert 25.11.2026",
+      "note": "Ledelse fra kommunens organside; øvrige navn og partitilhørighet ikke kontrollert.",
+      "members": [
+        {
+          "name": "Kari Grindvik",
+          "party": null,
+          "role": "Leder"
+        },
+        {
+          "name": "Jarle Refsnes",
+          "party": null,
+          "role": "Nestleder"
+        }
+      ]
+    },
+    {
+      "id": "youth",
+      "name": "Ungdomsrådet",
+      "size": 9,
+      "description": "Rådgivende organ for ungdommens levekår. Valgperioden er to år.",
+      "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/ungdomsrad/",
+      "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/ungdomsrad/",
+      "status": "Delvis kartlagt · kontrollert 25.11.2026",
+      "note": "Ledelse fra kommunens organside; øvrige navn og partitilhørighet ikke kontrollert.",
+      "members": [
+        {
+          "name": "Sofie Gjervik",
+          "party": null,
+          "role": "Leder"
+        },
+        {
+          "name": "Syver Wågsholm",
+          "party": null,
+          "role": "Nestleder"
+        }
+      ]
+    },
+    {
+      "id": "accessibility",
+      "name": "Råd for mennesker med nedsatt funksjonsevne",
+      "size": 10,
+      "description": "Rådgivende organ for levekår og tilgjengelighet. Kan ta opp egne saker.",
+      "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/rad-for-menneske-med-nedsett-funksjonsevne/",
+      "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/rad-for-menneske-med-nedsett-funksjonsevne/",
+      "status": "Delvis kartlagt · kontrollert 25.11.2026",
+      "note": "Ledelse fra kommunens organside; øvrige navn og partitilhørighet ikke kontrollert.",
+      "members": [
+        {
+          "name": "Thor Hansen",
+          "party": null,
+          "role": "Leder"
+        },
+        {
+          "name": "Therese Flisnes Opskar",
+          "party": null,
+          "role": "Nestleder"
+        }
+      ]
+    },
+    {
+      "id": "administration",
+      "name": "Administrasjonsutvalget",
+      "size": 8,
+      "description": "Fem arbeidsgiverrepresentanter og tre ansattrepresentanter. Behandler overordnede arbeidsgiversaker.",
+      "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/partssamansett-utval-administrasjonsutvalet/",
+      "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/partssamansett-utval-administrasjonsutvalet/",
+      "status": "Delvis kartlagt · kontrollert 25.11.2026",
+      "note": "Ordføreren skal være medlem etter kommunens organside; full medlemsliste ikke kontrollert.",
+      "members": []
+    },
+    {
+      "id": "appeals",
+      "name": "Klagenemnda",
+      "size": 5,
+      "description": "Behandler klager på enkeltvedtak når loven ikke fastsetter annen klageinstans. Klagen sendes først til organet som traff vedtaket.",
+      "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/klagenemnda/",
+      "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/klagenemnda/",
+      "status": "Delvis kartlagt · kontrollert 25.11.2026",
+      "note": "Ledelse fra kommunens organside; øvrige navn og partitilhørighet ikke kontrollert.",
+      "members": [
+        {
+          "name": "Andrea Hunger",
+          "party": null,
+          "role": "Leder"
+        },
+        {
+          "name": "Gunnar Erling Krüger",
+          "party": null,
+          "role": "Nestleder"
+        }
+      ]
     }
   ],
   "groupSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/politisk-styring/",
@@ -653,11 +752,6 @@ window.VL_GOVERNANCE = {
   ],
   "districtSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/kommunedelsutval/",
   "other": [
-    "Eldreråd",
-    "Råd for mennesker med nedsatt funksjonsevne",
-    "Ungdomsråd",
-    "Klagenemnd",
-    "Administrasjonsutvalg",
     "Valutvalg og valgstyre",
     "Eierskapsutvalg",
     "Forhandlingsutvalg",
