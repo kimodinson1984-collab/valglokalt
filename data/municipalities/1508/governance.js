@@ -7,7 +7,7 @@ window.VL_GOVERNANCE = {
       "id": "council",
       "name": "Kommunestyret",
       "size": 47,
-      "description": "Vedtar budsjett, økonomiplan og overordnede planer. Kommunens øverste politiske organ.",
+      "description": "Overordnet beslutningsmyndighet · Vedtar budsjett, økonomiplan og overordnede planer. Kommunens øverste politiske organ.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-28!HhFJQM",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/kommunestyre-og-formannskap/",
       "members": [
@@ -255,7 +255,7 @@ window.VL_GOVERNANCE = {
       "id": "executive",
       "name": "Formannskapet",
       "size": 13,
-      "description": "Forbereder økonomiske saker og skattevedtak; avgjør saker innen delegerte fullmakter.",
+      "description": "Delegerte fullmakter og saksforberedelse · Forbereder økonomiske saker og skattevedtak; avgjør saker innen delegerte fullmakter.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-27!hYRklf",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/kommunestyre-og-formannskap/",
       "members": [
@@ -331,7 +331,7 @@ window.VL_GOVERNANCE = {
       "id": "culture",
       "name": "Kultur og oppvekst",
       "size": 11,
-      "description": "Skole, barnehage, SFO, kultur, idrett og integrering. Forbereder saker og har delegert vedtaksmyndighet.",
+      "description": "Fagutvalg · Skole, barnehage, SFO, kultur, idrett og integrering. Forbereder saker og har delegert vedtaksmyndighet.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-33!Ynb9QH",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/hovudutval-for-kultur-og-oppvekst/",
       "members": [
@@ -397,7 +397,7 @@ window.VL_GOVERNANCE = {
       "id": "health",
       "name": "Helse og omsorg",
       "size": 11,
-      "description": "Helse, pleie, omsorg, psykisk helse, rus og tiltak knyttet til aktivitet og arbeid.",
+      "description": "Fagutvalg · Helse, pleie, omsorg, psykisk helse, rus og tiltak knyttet til aktivitet og arbeid.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-32!Jbbpcq",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/hovudutval-for-helse-og-omsorg/",
       "members": [
@@ -463,7 +463,7 @@ window.VL_GOVERNANCE = {
       "id": "technical",
       "name": "Teknisk, miljø og samferdsel",
       "size": 11,
-      "description": "Kommunal infrastruktur, transport, eiendomsdrift, natur og miljø.",
+      "description": "Fagutvalg · Kommunal infrastruktur, transport, eiendomsdrift, natur og miljø.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-31!krH37K",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/hovudutval-for-teknisk-miljo-og-samferdsel/",
       "members": [
@@ -529,7 +529,7 @@ window.VL_GOVERNANCE = {
       "id": "planning",
       "name": "Planutvalget",
       "size": 13,
-      "description": "Arealplaner, regulering og delegerte plan- og byggesaker.",
+      "description": "Plan- og byggesaker · Arealplaner, regulering og delegerte plan- og byggesaker.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-20!QoriTj",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/planutval/",
       "members": [
@@ -606,7 +606,7 @@ window.VL_GOVERNANCE = {
       "id": "control",
       "name": "Kontrollutvalget",
       "size": 5,
-      "description": "Fører kontroll med kommunal virksomhet og eierinteresser på vegne av kommunestyret. Rapporterer direkte til kommunestyret.",
+      "description": "Kontroll og tilsyn · Fører kontroll med kommunal virksomhet og eierinteresser på vegne av kommunestyret. Rapporterer direkte til kommunestyret.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/kontrollutval/",
       "members": [
         {
@@ -641,7 +641,7 @@ window.VL_GOVERNANCE = {
       "id": "elder",
       "name": "Eldrerådet",
       "size": 9,
-      "description": "Rådgivende organ for eldres levekår. Kan ta opp egne saker, men ikke enkeltsaker.",
+      "description": "Rådgivning og medvirkning · Rådgivende organ for eldres levekår. Kan ta opp egne saker, men ikke enkeltsaker.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/eldrerad/",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/eldrerad/",
       "status": "Delvis kartlagt · kontrollert 25.11.2026",
@@ -663,7 +663,7 @@ window.VL_GOVERNANCE = {
       "id": "youth",
       "name": "Ungdomsrådet",
       "size": 9,
-      "description": "Rådgivende organ for ungdommens levekår. Valgperioden er to år.",
+      "description": "Rådgivning og medvirkning · Rådgivende organ for ungdommens levekår. Valgperioden er to år.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/ungdomsrad/",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/ungdomsrad/",
       "status": "Delvis kartlagt · kontrollert 25.11.2026",
@@ -685,7 +685,7 @@ window.VL_GOVERNANCE = {
       "id": "accessibility",
       "name": "Råd for mennesker med nedsatt funksjonsevne",
       "size": 10,
-      "description": "Rådgivende organ for levekår og tilgjengelighet. Kan ta opp egne saker.",
+      "description": "Rådgivning og medvirkning · Rådgivende organ for levekår og tilgjengelighet. Kan ta opp egne saker.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/rad-for-menneske-med-nedsett-funksjonsevne/",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/rad-for-menneske-med-nedsett-funksjonsevne/",
       "status": "Delvis kartlagt · kontrollert 25.11.2026",
@@ -707,34 +707,40 @@ window.VL_GOVERNANCE = {
       "id": "administration",
       "name": "Administrasjonsutvalget",
       "size": 8,
-      "description": "Fem arbeidsgiverrepresentanter og tre ansattrepresentanter. Behandler overordnede arbeidsgiversaker.",
+      "description": "Arbeidsgiverpolitikk · Fem representanter valgt blant formannskapets medlemmer og tre valgt av og blant ansatte for to år. Kommunedirektøren har det løpende personalansvaret.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/partssamansett-utval-administrasjonsutvalet/",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/partssamansett-utval-administrasjonsutvalet/",
       "status": "Delvis kartlagt · kontrollert 25.11.2026",
-      "note": "Ordføreren skal være medlem etter kommunens organside; full medlemsliste ikke kontrollert.",
+      "note": "Ordføreren skal være medlem etter reglementet. Konkret medlemsliste ikke kontrollert.",
       "members": []
     },
     {
       "id": "appeals",
       "name": "Klagenemnda",
       "size": 5,
-      "description": "Behandler klager på enkeltvedtak når loven ikke fastsetter annen klageinstans. Klagen sendes først til organet som traff vedtaket.",
+      "description": "Klagebehandling · Behandler klager på enkeltvedtak når loven ikke fastsetter annen klageinstans. Klagen sendes først til organet som traff vedtaket.",
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/klagenemnda/",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/klagenemnda/",
       "status": "Delvis kartlagt · kontrollert 25.11.2026",
-      "note": "Ledelse fra kommunens organside; øvrige navn og partitilhørighet ikke kontrollert.",
+      "note": "Leder bekreftet på kommunens organside. Nestleder og øvrige medlemmer ikke bekreftet i denne kilden. Medlemmer kan ikke samtidig sitte i formannskapet eller planutvalget.",
       "members": [
         {
           "name": "Andrea Hunger",
           "party": null,
           "role": "Leder"
-        },
-        {
-          "name": "Gunnar Erling Krüger",
-          "party": null,
-          "role": "Nestleder"
         }
       ]
+    },
+    {
+      "id": "negotiation",
+      "name": "Forhandlingsutvalget",
+      "size": 5,
+      "description": "Arbeidsgiverstrategi · Underutvalg av administrasjonsutvalget. De fem folkevalgte arbeidsgiverrepresentantene utgjør utvalget; strategiske tariff- og arbeidsgiversaker.",
+      "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/partssamansett-utval-administrasjonsutvalet/",
+      "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/partssamansett-utval-administrasjonsutvalet/",
+      "status": "Sammensetning dokumentert; navn ikke kontrollert",
+      "note": "Samme fem arbeidsgiverrepresentanter som i administrasjonsutvalget. Plassene telles som separate verv, ikke som nye personer.",
+      "members": []
     }
   ],
   "groupSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/politisk-styring/",
@@ -754,7 +760,6 @@ window.VL_GOVERNANCE = {
   "other": [
     "Valutvalg og valgstyre",
     "Eierskapsutvalg",
-    "Forhandlingsutvalg",
     "Oppgaveutvalg",
     "Kommunale foretak og interkommunale selskaper"
   ],
