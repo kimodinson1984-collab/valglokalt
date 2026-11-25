@@ -689,7 +689,7 @@ window.VL_GOVERNANCE = {
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/rad-for-menneske-med-nedsett-funksjonsevne/",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/rad-for-menneske-med-nedsett-funksjonsevne/",
       "status": "Delvis kartlagt · kontrollert 25.11.2026",
-      "note": "Ledelse fra kommunens organside; øvrige navn og partitilhørighet ikke kontrollert.",
+      "note": "Organsiden oppgir 10 faste medlemmer, mens reglementet fra 2023 oppgir 9. Her brukes organsidens nyere opplysning; avviket bør avklares. Leder og nestleder bekreftet.",
       "members": [
         {
           "name": "Thor Hansen",
@@ -711,8 +711,14 @@ window.VL_GOVERNANCE = {
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/partssamansett-utval-administrasjonsutvalet/",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/partssamansett-utval-administrasjonsutvalet/",
       "status": "Delvis kartlagt · kontrollert 25.11.2026",
-      "note": "Ordføreren skal være medlem etter reglementet. Konkret medlemsliste ikke kontrollert.",
-      "members": []
+      "note": "Ordførerens medlemskap følger av reglementet og utvalgenes sammensetning. Øvrige navn ikke kontrollert.",
+      "members": [
+        {
+          "name": "Håkon Lykkebø Strand",
+          "party": "frp",
+          "role": "Medlem"
+        }
+      ]
     },
     {
       "id": "appeals",
@@ -722,12 +728,17 @@ window.VL_GOVERNANCE = {
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/klagenemnda/",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/klagenemnda/",
       "status": "Delvis kartlagt · kontrollert 25.11.2026",
-      "note": "Leder bekreftet på kommunens organside. Nestleder og øvrige medlemmer ikke bekreftet i denne kilden. Medlemmer kan ikke samtidig sitte i formannskapet eller planutvalget.",
+      "note": "Leder og nestleder bekreftet på kommunens organside 25.11.2026. Øvrige medlemmer ikke kontrollert. Medlemmer kan ikke samtidig sitte i formannskapet eller planutvalget.",
       "members": [
         {
           "name": "Andrea Hunger",
           "party": null,
           "role": "Leder"
+        },
+        {
+          "name": "Gunnar Erling Krüger",
+          "party": "h",
+          "role": "Nestleder"
         }
       ]
     },
@@ -739,8 +750,14 @@ window.VL_GOVERNANCE = {
       "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/partssamansett-utval-administrasjonsutvalet/",
       "mandateSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/partssamansett-utval-administrasjonsutvalet/",
       "status": "Sammensetning dokumentert; navn ikke kontrollert",
-      "note": "Samme fem arbeidsgiverrepresentanter som i administrasjonsutvalget. Plassene telles som separate verv, ikke som nye personer.",
-      "members": []
+      "note": "Ordførerens medlemskap følger av reglementet og utvalgenes sammensetning. Øvrige navn ikke kontrollert.",
+      "members": [
+        {
+          "name": "Håkon Lykkebø Strand",
+          "party": "frp",
+          "role": "Medlem"
+        }
+      ]
     }
   ],
   "groupSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/politisk-styring/",
@@ -758,15 +775,28 @@ window.VL_GOVERNANCE = {
   ],
   "districtSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/kommunedelsutval/",
   "other": [
-    "Valutvalg og valgstyre",
     "Eierskapsutvalg",
-    "Oppgaveutvalg",
-    "Kommunale foretak og interkommunale selskaper"
+    "Kommunale foretak og interkommunale selskaper",
+    "Valgstyre"
   ],
   "otherSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/",
   "nextTerm": {
     "seats": 47,
     "status": "Omtalt vedtak 24.09.2026; original møteprotokoll gjenstår",
     "source": "https://www.innbyggerstemmen.no/offentlige-saker/cmuajsalf0oawi4owr9kk7kbg"
-  }
+  },
+  "additionalOrgans": [
+    {
+      "name": "Valgutvalget",
+      "type": "Innstilling til valg av medlemmer",
+      "description": "Innstiller medlemmer og varamedlemmer til folkevalgte organer. Leder: Håkon Lykkebø Strand. Full medlemsliste og størrelse ikke kontrollert.",
+      "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/valutval/"
+    },
+    {
+      "name": "Oppgaveutvalg",
+      "type": "Tidsavgrensede organer",
+      "description": "Opprettes for konkrete oppgaver. Antall medlemmer, varighet og myndighet fastsettes ved opprettelsen. Ingen samlet aktiv medlemsliste kontrollert.",
+      "source": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oppgaveutval/"
+    }
+  ]
 };
