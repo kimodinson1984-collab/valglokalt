@@ -58,7 +58,12 @@ window.VL_LOCAL_DEMOCRACY = {
           "role": "Medlem"
         }
       ],
-      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-10!PUL5gu"
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-10!PUL5gu",
+      "population": [
+        9665,
+        9793,
+        9865
+      ]
     },
     {
       "id": "norvoy",
@@ -116,7 +121,12 @@ window.VL_LOCAL_DEMOCRACY = {
           "role": "Medlem"
         }
       ],
-      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-12!ukdHKH"
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-12!ukdHKH",
+      "population": [
+        13655,
+        13843,
+        13855
+      ]
     },
     {
       "id": "spjelkavik",
@@ -174,7 +184,12 @@ window.VL_LOCAL_DEMOCRACY = {
           "role": "Medlem"
         }
       ],
-      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-15!etkg3t"
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-15!etkg3t",
+      "population": [
+        13619,
+        13751,
+        14004
+      ]
     },
     {
       "id": "borgund",
@@ -232,7 +247,12 @@ window.VL_LOCAL_DEMOCRACY = {
           "role": "Medlem"
         }
       ],
-      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-11!cG2K5D"
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-11!cG2K5D",
+      "population": [
+        10274,
+        10422,
+        10491
+      ]
     },
     {
       "id": "skodje",
@@ -290,7 +310,12 @@ window.VL_LOCAL_DEMOCRACY = {
           "role": "Medlem"
         }
       ],
-      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-14!AwkSO9"
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-14!AwkSO9",
+      "population": [
+        4943,
+        5023,
+        5041
+      ]
     },
     {
       "id": "orskog",
@@ -348,7 +373,12 @@ window.VL_LOCAL_DEMOCRACY = {
           "role": "Medlem"
         }
       ],
-      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-17!zaLXYI"
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-17!zaLXYI",
+      "population": [
+        2277,
+        2311,
+        2334
+      ]
     },
     {
       "id": "ellingsoy",
@@ -406,7 +436,12 @@ window.VL_LOCAL_DEMOCRACY = {
           "role": "Medlem"
         }
       ],
-      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-9!LPhkTx"
+      "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-9!LPhkTx",
+      "population": [
+        2863,
+        2856,
+        2866
+      ]
     },
     {
       "id": "sandoy",
@@ -470,7 +505,12 @@ window.VL_LOCAL_DEMOCRACY = {
         }
       ],
       "memberSource": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/rad-nemnder-og-utval/oversikt-over-alle-utval/#/details/u-1acb36f4__d80e__43d7__8ae1__0ecc2069589e-13!nnLw4S",
-      "note": "Registeruttrekket har 10 navn mot 9 plasser etter reglementet. Rolle/status må kontrolleres før en endelig medlemsliste kan fastslås."
+      "note": "Registeruttrekket har 10 navn mot 9 plasser etter reglementet. Rolle/status må kontrolleres før en endelig medlemsliste kan fastslås.",
+      "population": [
+        1126,
+        1106,
+        1109
+      ]
     }
   ],
   "regulation": "https://alesund.kommune.no/_f/p1/i8b057465-3976-4031-a85c-87d9402bb525/reglement-for-folkevalgte-organ-2023-2027.pdf",
@@ -1109,5 +1149,12 @@ window.VL_LOCAL_DEMOCRACY = {
         1054
       ]
     ]
-  }
+  },
+  "populationSource": "https://alesund.kommune.no/kommunen/om-kommunen/fakta-om-alesund/",
+  "populationDates": [
+    "2024-01-01",
+    "2025-01-01",
+    "2026-01-01"
+  ],
+  "meetingCalendar": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/politisk-styring/"
 };
