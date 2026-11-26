@@ -574,7 +574,12 @@ window.VL_LOCAL_DEMOCRACY = {
         "board": [],
         "unverifiedRepresentatives": [],
         "orgnr": "919635657",
-        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/919635657"
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/919635657",
+        "executive": {
+          "name": "Magnhild Solli Sorthe",
+          "role": "Daglig leder",
+          "source": "https://eierskapmelding.hustadvika.kommune.no/aksjeselskap-as/astero-as"
+        }
       },
       {
         "name": "Attvin AS",
@@ -647,10 +652,46 @@ window.VL_LOCAL_DEMOCRACY = {
         "type": "AS",
         "share": 100,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
-        "board": [],
+        "board": [
+          {
+            "name": "Bjørn Inge Molvær",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Harry Valderhaug",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Leif Ole Elde",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Marco Dimmen",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Gunnhild Eikrem Sandnes",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Carola Herrmann",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Torill Andersen Leganger",
+            "role": "Styremedlem"
+          }
+        ],
         "unverifiedRepresentatives": [],
         "orgnr": "925996432",
-        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/925996432"
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/925996432",
+        "boardSource": "https://www.proff.no/roller/brisk-as/%C3%A5lesund/sosiale-tjenester/IFBBBF4119E",
+        "boardNote": "Registergjengivelse hos Proff; nettuttrekket er eldre, dagens sammensetning må kontrolleres.",
+        "executive": {
+          "name": "Marius Finsæther Øksenvåg",
+          "role": "Daglig leder",
+          "source": "https://www.proff.no/roller/brisk-as/%C3%A5lesund/sosiale-tjenester/IFBBBF4119E"
+        }
       },
       {
         "name": "Den norske matfestivalen AS",
@@ -867,7 +908,12 @@ window.VL_LOCAL_DEMOCRACY = {
         "board": [],
         "unverifiedRepresentatives": [],
         "orgnr": "978664628",
-        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/978664628"
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/978664628",
+        "executive": {
+          "name": "Johannes Størk Huse",
+          "role": "Daglig leder",
+          "source": "https://www.proff.no/selskap/sand%C3%B8y-energi-as/har%C3%B8y/produsenter/IG6O6GK016D"
+        }
       },
       {
         "name": "Storfjordsambandet AS",
@@ -1023,10 +1069,54 @@ window.VL_LOCAL_DEMOCRACY = {
         "type": "AS",
         "share": 20.35,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
-        "board": [],
+        "board": [
+          {
+            "name": "Christer Ludvig Valderhaug",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Anne Mette Lervik Rønning",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Hans Petter Hildre",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Linda Beate Strømmen",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Ole Andreas Nustad",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Jon Steven Hasseldal",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Marita Løvik Stadsnes",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Håvar Risnes",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Johnny André Aarseth",
+            "role": "Styremedlem"
+          }
+        ],
         "unverifiedRepresentatives": [],
         "orgnr": "981575679",
-        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/981575679"
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/981575679",
+        "boardSource": "https://www.proff.no/roller/%C3%A5kp-as/%C3%A5lesund/bedriftsr%C3%A5dgivning/IG8EKN3043Z",
+        "boardNote": "Registergjengivelse hos Proff, kontrollert 26.11.2026. Varamedlemmer ikke inkludert.",
+        "executive": {
+          "name": "Kirsti Lovise Slotsvik",
+          "role": "Daglig leder",
+          "source": "https://www.proff.no/roller/%C3%A5kp-as/%C3%A5lesund/bedriftsr%C3%A5dgivning/IG8EKN3043Z"
+        }
       },
       {
         "name": "Ålesund brannvesen KF",
