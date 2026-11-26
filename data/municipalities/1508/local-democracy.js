@@ -1091,7 +1091,7 @@ window.VL_LOCAL_DEMOCRACY = {
         "orgnr": "976726626",
         "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/976726626",
         "boardSource": "https://www.tafjord.no/kort-om-tafjord/styring-og-ledelse/styret-og-konsernledelsen",
-        "boardNote": "Selskapets publiserte styreoversikt, lest 20.11.2026; eventuelle senere endringer ikke kontrollert.",
+        "boardNote": "Selskapets publiserte styreoversikt, lest 20.11.2026; eventuelle senere endringer ikke kontrollert. Styreleder, nestleder og fire aksjonærvalgte medlemmer bekreftet i generalforsamlingens protokoll 22.05.2026.",
         "financials": [
           {
             "year": 2025,
@@ -1101,7 +1101,7 @@ window.VL_LOCAL_DEMOCRACY = {
             "sourceNote": "Proff, registergjengivelse; originalregnskap ikke kontrollert.",
             "revenue": 60456000,
             "operatingResult": -14284000,
-            "netResult": 323855000,
+            "netResult": 323855268,
             "assets": 3909187000,
             "equity": 2714997000,
             "liabilities": 1194190000,
@@ -1127,7 +1127,31 @@ window.VL_LOCAL_DEMOCRACY = {
           "name": "Erik Espeset",
           "role": "Daglig leder",
           "source": "https://www.proff.no/selskap/tafjord-kraft-as/%C3%A5lesund/energiforsyning/IG5IN3600BD"
-        }
+        },
+        "dividends": [
+          {
+            "year": 2026,
+            "accountYear": 2025,
+            "total": 198000000,
+            "municipalEstimate": 104157900,
+            "status": "Vedtatt 22.05.2026; beregnet forholdsmessig andel, ikke kontrollert innbetaling",
+            "source": "https://cdn.sanity.io/files/ui6zzfw8/production/28a9d0dbf3d84a09bb7b22c4f1945cdf0d13c12b.pdf"
+          }
+        ],
+        "rates": {
+          "year": 2026,
+          "chair": 250000,
+          "member": 142500,
+          "alternatePerMeeting": 8000,
+          "source": "https://cdn.sanity.io/files/ui6zzfw8/production/28a9d0dbf3d84a09bb7b22c4f1945cdf0d13c12b.pdf"
+        },
+        "ownerRepresentative": {
+          "name": "Håkon Lykkebø Strand",
+          "role": "Representerte Ålesund kommune på generalforsamlingen 22.05.2026",
+          "source": "https://cdn.sanity.io/files/ui6zzfw8/production/28a9d0dbf3d84a09bb7b22c4f1945cdf0d13c12b.pdf"
+        },
+        "reportSource": "https://www.tafjord.no/kort-om-tafjord/finansiell-informasjon",
+        "generalMeetingSource": "https://cdn.sanity.io/files/ui6zzfw8/production/28a9d0dbf3d84a09bb7b22c4f1945cdf0d13c12b.pdf"
       },
       {
         "name": "Vaksvik vassverk SA",
