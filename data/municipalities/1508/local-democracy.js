@@ -581,10 +581,56 @@ window.VL_LOCAL_DEMOCRACY = {
         "type": "AS",
         "share": 88.89,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
-        "board": [],
+        "board": [
+          {
+            "name": "Liv Stette",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Signy Starheim",
+            "role": "Nestleder"
+          },
+          {
+            "name": "Tor Husø",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Eva Langstein",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Odd Harald Karlsen",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Levi Lervik",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Rolf Magne Asbjørnsen",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Heidi Steinnes",
+            "role": "Styremedlem (ansattrepresentant)"
+          },
+          {
+            "name": "Ivan Malechkov",
+            "role": "Styremedlem (ansattrepresentant)"
+          }
+        ],
         "unverifiedRepresentatives": [],
         "orgnr": "922025096",
-        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/922025096"
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/922025096",
+        "boardSource": "https://attvin.no/om-attvin/organisasjonsstruktur",
+        "boardNote": "Selskapets egen styreoversikt, lest 26.11.2026. Samme styre i morselskapet og begge datterselskapene.",
+        "description": "Renovasjon og avfallsbehandling. Eierskapsavvik: kommunens melding oppgir 88,89 %, selskapets egen oversikt oppgir 90 % og foreløpig delt eierbrøk med Haram. Gjeldende endelig andel må avklares.",
+        "shareComparison": {
+          "share": 90,
+          "source": "https://attvin.no/om-attvin/organisasjonsstruktur",
+          "note": "Foreløpig delt eierbrøk med Haram."
+        },
+        "reportSource": "https://attvin.no/arsrapportar"
       },
       {
         "name": "Biblioteksentralen SA",
@@ -635,10 +681,71 @@ window.VL_LOCAL_DEMOCRACY = {
         "type": "AS",
         "share": 3.74,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
-        "board": [],
+        "board": [
+          {
+            "name": "Gunnar Bovim",
+            "role": "Styreleder"
+          },
+          {
+            "name": "Arne Ingebrigtsen",
+            "role": "Nestleder"
+          },
+          {
+            "name": "Terje Gårdsmoen",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Tom Christian Martinsen",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Anne Kathrine Slungård",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Ingrid Juberg Moe",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Synnøve Vasstrand Synnes",
+            "role": "Styremedlem"
+          },
+          {
+            "name": "Merete Skjelvik",
+            "role": "Styremedlem (ansattrepresentant)"
+          },
+          {
+            "name": "Rune Andre Hollås",
+            "role": "Styremedlem (ansattrepresentant)"
+          },
+          {
+            "name": "Monica Devold",
+            "role": "Styremedlem (ansattrepresentant)"
+          }
+        ],
         "unverifiedRepresentatives": [],
         "orgnr": "922307814",
-        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/922307814"
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/922307814",
+        "boardSource": "https://www.helseplattformen.no/om-oss/styret-i-helseplattformen-as/",
+        "boardNote": "Valgt 11.06.2026, selskapets oversikt oppdatert 28.08.2026. Svein-Rune Johannessen er observatør med talerett, ikke styremedlem.",
+        "observers": [
+          {
+            "name": "Svein-Rune Johannessen",
+            "role": "Observatør med talerett; leder av brukerutvalget",
+            "source": "https://www.helseplattformen.no/om-oss/styret-i-helseplattformen-as/"
+          }
+        ],
+        "executive": {
+          "name": "Siri Berg",
+          "role": "Administrerende direktør",
+          "source": "https://www.helseplattformen.no/om-oss/"
+        },
+        "description": "Utvikler og drifter journalsystemet Helseplattformen. Selskapets aksjonæroversikt per 13.06.2025 oppgir Ålesunds andel til 3,21 %, mot 3,74 % i kommunens eierskapsmelding. Dagens andel må avklares.",
+        "shareComparison": {
+          "share": 3.21,
+          "date": "2025-06-13",
+          "source": "https://www.helseplattformen.no/om-oss/"
+        }
       },
       {
         "name": "Håp i havet eiendom AS",
