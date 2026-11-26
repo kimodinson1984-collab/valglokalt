@@ -635,7 +635,28 @@ window.VL_LOCAL_DEMOCRACY = {
           "source": "https://attvin.no/om-attvin/organisasjonsstruktur",
           "note": "Foreløpig delt eierbrøk med Haram."
         },
-        "reportSource": "https://attvin.no/arsrapportar"
+        "reportSource": "https://attvin.no/arsrapportar",
+        "financials": [
+          {
+            "year": 2025,
+            "scope": "Morselskap",
+            "unit": "NOK",
+            "source": "https://www.proff.no/selskap/attvin-as/%C3%A5lesund/renovasjon/IF8Y74801DV",
+            "sourceNote": "Proff, registergjengivelse; originalregnskap ikke kontrollert.",
+            "revenue": 67576000,
+            "operatingResult": 6399000,
+            "netResult": 5676000,
+            "assets": 235624000,
+            "equity": 119296000,
+            "liabilities": 116328000,
+            "liabilitiesCalculated": true
+          }
+        ],
+        "executive": {
+          "name": "Øystein Peder Solevåg",
+          "role": "Daglig leder",
+          "source": "https://www.proff.no/selskap/attvin-as/%C3%A5lesund/renovasjon/IF8Y74801DV"
+        }
       },
       {
         "name": "Biblioteksentralen SA",
@@ -690,8 +711,24 @@ window.VL_LOCAL_DEMOCRACY = {
         "executive": {
           "name": "Marius Finsæther Øksenvåg",
           "role": "Daglig leder",
-          "source": "https://www.proff.no/roller/brisk-as/%C3%A5lesund/sosiale-tjenester/IFBBBF4119E"
-        }
+          "source": "https://www.proff.no/selskap/brisk-as/%C3%A5lesund/sosiale-tjenester/IFBBBF4119E"
+        },
+        "financials": [
+          {
+            "year": 2025,
+            "scope": "Morselskap",
+            "unit": "NOK",
+            "source": "https://www.proff.no/selskap/brisk-as/%C3%A5lesund/sosiale-tjenester/IFBBBF4119E",
+            "sourceNote": "Proff, registergjengivelse; originalregnskap ikke kontrollert.",
+            "revenue": 25069000,
+            "operatingResult": 1820000,
+            "netResult": 1962000,
+            "assets": 63631000,
+            "equity": 8345000,
+            "liabilities": 55286000,
+            "liabilitiesCalculated": true
+          }
+        ]
       },
       {
         "name": "Den norske matfestivalen AS",
@@ -1054,7 +1091,43 @@ window.VL_LOCAL_DEMOCRACY = {
         "orgnr": "976726626",
         "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/976726626",
         "boardSource": "https://www.tafjord.no/kort-om-tafjord/styring-og-ledelse/styret-og-konsernledelsen",
-        "boardNote": "Selskapets publiserte styreoversikt, lest 20.11.2026; eventuelle senere endringer ikke kontrollert."
+        "boardNote": "Selskapets publiserte styreoversikt, lest 20.11.2026; eventuelle senere endringer ikke kontrollert.",
+        "financials": [
+          {
+            "year": 2025,
+            "scope": "Morselskap",
+            "unit": "NOK",
+            "source": "https://www.proff.no/selskap/tafjord-kraft-as/%C3%A5lesund/energiforsyning/IG5IN3600BD",
+            "sourceNote": "Proff, registergjengivelse; originalregnskap ikke kontrollert.",
+            "revenue": 60456000,
+            "operatingResult": -14284000,
+            "netResult": 323855000,
+            "assets": 3909187000,
+            "equity": 2714997000,
+            "liabilities": 1194190000,
+            "liabilitiesCalculated": true
+          },
+          {
+            "year": 2025,
+            "scope": "Konsern",
+            "unit": "NOK",
+            "source": "https://www.tafjord.no/kort-om-tafjord/finansiell-informasjon",
+            "sourceNote": "Selskapets finansielle oversikt, avrundet til millioner. Driftsinntekt fra innledende nøkkeltall (1 803 mill.).",
+            "revenue": 1803000000,
+            "operatingResult": 643000000,
+            "netResult": 352000000,
+            "assets": 6188000000,
+            "equity": 3128000000,
+            "liabilities": 3060000000,
+            "liabilitiesCalculated": true,
+            "rounded": true
+          }
+        ],
+        "executive": {
+          "name": "Erik Espeset",
+          "role": "Daglig leder",
+          "source": "https://www.proff.no/selskap/tafjord-kraft-as/%C3%A5lesund/energiforsyning/IG5IN3600BD"
+        }
       },
       {
         "name": "Vaksvik vassverk SA",
@@ -1241,7 +1314,28 @@ window.VL_LOCAL_DEMOCRACY = {
         "orgnr": "930475610",
         "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/930475610",
         "boardSource": "https://www.alesundparkering.no/om-oss/",
-        "boardNote": "Selskapets egen oversikt, sist endret 02.10.2026."
+        "boardNote": "Selskapets egen oversikt, sist endret 02.10.2026.",
+        "financials": [
+          {
+            "year": 2025,
+            "scope": "Selskapsregnskap",
+            "unit": "NOK",
+            "source": "https://www.proff.no/selskap/%C3%A5lesund-parkering-as/%C3%A5lesund/parkeringsanlegg/IFDZBKQ0VNY",
+            "sourceNote": "Proff, registergjengivelse; originalregnskap ikke kontrollert.",
+            "revenue": 36616000,
+            "operatingResult": 7783000,
+            "netResult": 5856000,
+            "assets": 123634000,
+            "equity": 83673000,
+            "liabilities": 39961000,
+            "liabilitiesCalculated": true
+          }
+        ],
+        "executive": {
+          "name": "Roar Salen",
+          "role": "Daglig leder",
+          "source": "https://www.proff.no/selskap/%C3%A5lesund-parkering-as/%C3%A5lesund/parkeringsanlegg/IFDZBKQ0VNY"
+        }
       },
       {
         "name": "Ålesundregionens havnevesen IKS",
