@@ -1156,5 +1156,48 @@ window.VL_LOCAL_DEMOCRACY = {
     "2025-01-01",
     "2026-01-01"
   ],
-  "meetingCalendar": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/politisk-styring/"
+  "meetingCalendar": "https://alesund.kommune.no/politikk-og-samfunnsutvikling/politikk/slik-blir-alesund-styrt/politisk-styring/",
+  "districtBudget": {
+    "year": 2026,
+    "framework": 232875,
+    "calculationExcess": 204,
+    "source": "https://www.innbyggerstemmen.no/offentlige-saker/cmukp01c90nvli494gr67iorq",
+    "status": "Gjengitt kommunalt saksframlegg; originaldokument og endelig fordeling ikke kontrollert",
+    "allocations": {
+      "sandoy": {
+        "amount": 12850,
+        "source": "https://www.innbyggerstemmen.no/offentlige-saker/cmukp01c90nvli494gr67iorq"
+      },
+      "skodje": {
+        "amount": 22955,
+        "source": "https://www.innbyggerstemmen.no/offentlige-saker/cmukp01j10nvsi494wps4cq62"
+      },
+      "orskog": {
+        "amount": 15998,
+        "source": "https://www.innbyggerstemmen.no/offentlige-saker/cmukp015x0nvhi494ew51k4pp"
+      }
+    }
+  },
+  "districtAuthority": {
+    "source": "https://alesund.kommune.no/_f/p1/i09373760-15d0-4dde-9784-d0080623eb43/politisk-delegeringsreglement-2023-2027.pdf",
+    "annualCycle": [
+      [
+        "Februar",
+        "Temamøte med kommunedirektør og politisk ledelse."
+      ],
+      [
+        "September",
+        "Tidlig innspillsmøte om handlingsprogram og budsjett."
+      ],
+      [
+        "1. oktober",
+        "Tildeling av lokale midler bør være gjennomført."
+      ],
+      [
+        "Årlig",
+        "Evaluering av handlingsprogram; protokoller, vedtatte handlingsprogram og årsrapporter legges frem som referatsaker for kommunestyret."
+      ]
+    ],
+    "scope": "Utvalgene kan tildele midler til nærmiljøtiltak innen eget budsjett. Fullmakten omfatter primært tiltak som ikke ligger under andre organers eller virksomheters ansvarsområde."
+  }
 };
