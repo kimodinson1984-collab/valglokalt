@@ -646,7 +646,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 51,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "989378716",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/989378716"
       },
       {
         "name": "Interkommunalt arkiv for Møre og Romsdal IKS",
@@ -702,13 +704,15 @@ window.VL_LOCAL_DEMOCRACY = {
         "unverifiedRepresentatives": [],
         "description": "Kommunalt foretak, del av kommunen.",
         "boardSource": "https://110-sentralen.no/110-sentralen-2/",
-        "boardNote": "Foretakets styreoversikt for perioden 2024–2027. Reglementet oppgir ikke sats for fast medlem.",
+        "boardNote": "Foretakets styreoversikt for perioden 2024–2027. Reglementet oppgir ikke sats for fast medlem. Brønnøysundregistrenes tilgjengelige registeruttrekk avviker: Yvonne Wold er oppført som nestleder, Lena Marie Landsverk med annet navn og Petter Aksel Kirkebøe som ansattrepresentant. Dato for rolleendring ikke avklart; kildene må sammenholdes.",
         "rates": {
           "chair": 68525,
           "member": null,
           "source": "https://alesund.kommune.no/_f/p1/i249b10b5-9427-4cb7-a4d1-25e1b181c6bf/reglement-for-folkevalde-sine-arbeidsvilkar.pdf",
           "year": 2026
-        }
+        },
+        "orgnr": "988380504",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/988380504"
       },
       {
         "name": "Møre og Romsdal revisjon SA",
@@ -726,7 +730,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 7,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "927056453",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/927056453"
       },
       {
         "name": "Rovdefjordsambandet AS",
@@ -776,7 +782,9 @@ window.VL_LOCAL_DEMOCRACY = {
           "Ingrid Kvam Steinshamn",
           "Daniella Barholm",
           "Tore Johan Øvstebø"
-        ]
+        ],
+        "orgnr": "971369205",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/971369205"
       },
       {
         "name": "Sunnmøre kontrollutvalgssekretariat IKS",
@@ -791,7 +799,9 @@ window.VL_LOCAL_DEMOCRACY = {
           "Jessica Gartner",
           "Anne Berit Støyva Emblem",
           "Anders Lindbeck"
-        ]
+        ],
+        "orgnr": "889117192",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/889117192"
       },
       {
         "name": "Sunnmøre regionråd IPR",
@@ -812,7 +822,9 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 30,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "929674332",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/929674332"
       },
       {
         "name": "Sørsida utvikling AS",
@@ -945,7 +957,9 @@ window.VL_LOCAL_DEMOCRACY = {
           "member": 15814,
           "source": "https://alesund.kommune.no/_f/p1/i249b10b5-9427-4cb7-a4d1-25e1b181c6bf/reglement-for-folkevalde-sine-arbeidsvilkar.pdf",
           "year": 2026
-        }
+        },
+        "orgnr": "987780657",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/987780657"
       },
       {
         "name": "Ålesund kommunale eigedom KF",
@@ -983,7 +997,9 @@ window.VL_LOCAL_DEMOCRACY = {
           "member": 31627,
           "source": "https://alesund.kommune.no/_f/p1/i249b10b5-9427-4cb7-a4d1-25e1b181c6bf/reglement-for-folkevalde-sine-arbeidsvilkar.pdf",
           "year": 2026
-        }
+        },
+        "orgnr": "986074988",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/986074988"
       },
       {
         "name": "Ålesund kommunes administrasjonsbygg AS",
