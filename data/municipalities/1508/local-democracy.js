@@ -950,7 +950,15 @@ window.VL_LOCAL_DEMOCRACY = {
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
         "unverifiedRepresentatives": [],
-        "description": "Oppført med 0 % i eierskapsmeldingen. Nåværende status må avklares."
+        "description": "Oppført med 0 % i eierskapsmeldingen. Nåværende status må avklares.",
+        "orgnr": "950413441",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/950413441",
+        "registryNote": "Navn, organisasjonsform og organisasjonsnummer kontrollert mot Brønnøysundregistrene 27.11.2026.",
+        "executive": {
+          "name": "Jostein Hogne Korsnes",
+          "role": "Daglig leder",
+          "source": "https://firmadatabasen.no/selskap/sande-fastlandssamband-as/950413441"
+        }
       },
       {
         "name": "Sandøy Energi AS",
@@ -1022,7 +1030,10 @@ window.VL_LOCAL_DEMOCRACY = {
           "Anne Berit Støyva Emblem",
           "Hans Kjetil Knutsen",
           "Jessica Gärtner"
-        ]
+        ],
+        "description": "Omorganisering fra IKS til IPR. Brønnøysundregistrene viser fortsatt Sunnmøre regionråd IKS, org.nr. 898127052. Nytt IPR-nummer er ikke bekreftet.",
+        "statusSource": "https://innsiktsarkiv.no/kommuner/1535/saker/205292",
+        "previousRegistrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/898127052"
       },
       {
         "name": "Sørsida eiendomsselskap 2 AS",
