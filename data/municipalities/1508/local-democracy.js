@@ -564,7 +564,10 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 8,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "930569046",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/930569046",
+        "registryNote": "Organisasjonsnummer funnet 27.11.2026; juridisk status og gjeldende roller ikke fullstendig kontrollert."
       },
       {
         "name": "Astero AS",
@@ -736,7 +739,10 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 5.13,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "981413601",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/981413601",
+        "registryNote": "Organisasjonsnummer funnet 27.11.2026; juridisk status og gjeldende roller ikke fullstendig kontrollert."
       },
       {
         "name": "Hamnsundsambandet AS",
@@ -744,7 +750,10 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 10.52,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "993403083",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/993403083",
+        "registryNote": "Organisasjonsnummer funnet 27.11.2026; juridisk status og gjeldende roller ikke fullstendig kontrollert."
       },
       {
         "name": "Hareid fastlandssamband AS",
@@ -752,7 +761,10 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 2.94,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "939743863",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/939743863",
+        "registryNote": "Organisasjonsnummer funnet 27.11.2026; juridisk status og gjeldende roller ikke fullstendig kontrollert."
       },
       {
         "name": "Helseplattformen AS",
@@ -926,7 +938,10 @@ window.VL_LOCAL_DEMOCRACY = {
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
         "unverifiedRepresentatives": [],
-        "description": "Oppført med 0 % i eierskapsmeldingen. Nåværende status må avklares."
+        "description": "Oppført med 0 % i eierskapsmeldingen. Nåværende status må avklares.",
+        "orgnr": "996605949",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/996605949",
+        "registryNote": "Organisasjonsnummer funnet 27.11.2026; juridisk status og gjeldende roller ikke fullstendig kontrollert."
       },
       {
         "name": "Sande fastlandsamband AS",
@@ -958,7 +973,10 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 13.9,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "943112339",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/943112339",
+        "registryNote": "Organisasjonsnummer funnet 27.11.2026; juridisk status og gjeldende roller ikke fullstendig kontrollert."
       },
       {
         "name": "Sunnmøre friluftsråd KO",
@@ -1159,7 +1177,10 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": null,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "870953682",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/870953682",
+        "registryNote": "Organisasjonsnummer funnet 27.11.2026; juridisk status og gjeldende roller ikke fullstendig kontrollert."
       },
       {
         "name": "ÅKP AS",
@@ -1301,7 +1322,10 @@ window.VL_LOCAL_DEMOCRACY = {
         "share": 100,
         "source": "https://pub.framsikt.net/plan/alesund2020/plan-375a0614-3a31-4fc1-966a-261416a35650-49109/",
         "board": [],
-        "unverifiedRepresentatives": []
+        "unverifiedRepresentatives": [],
+        "orgnr": "931639951",
+        "registrySource": "https://virksomhet.brreg.no/nb/oppslag/enheter/931639951",
+        "registryNote": "Organisasjonsnummer funnet 27.11.2026; juridisk status og gjeldende roller ikke fullstendig kontrollert."
       },
       {
         "name": "Ålesund Parkering AS",
